@@ -3,7 +3,7 @@ import './App.css';
 
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
-import Companies from './components/Companies/Conpanies';
+import Companies from './components/Companies/Companies';
 import Residencies from "./components/Residencies/Residencies";
 import Contact from './components/Contact/Contact';
 import GetStarted from './components/GetStarted/GetStarted';
@@ -20,9 +20,9 @@ function App() {
       </div>
       <Companies />
       <Residencies />
-      <Contact/>
-      <GetStarted/>
-      <Footer/>
+      <Contact />
+      <GetStarted />
+      <Footer />
     </div>
   );
 }
