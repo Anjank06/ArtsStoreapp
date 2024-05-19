@@ -3,55 +3,55 @@
     "name": "Aliva Priva Jardin",
     "price": "47,043",
     "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./Pics/Esha.jpg"
+    "image": "./pics/Esha.jpg"
   },
   {
     "name": "Buddha Portrait",
     "price": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./Pics/Buddha.jpg"
+    "image": "./pics/Buddha.jpg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./Pics/Lab_Dog.jpeg"
+    "image": "./pics/Lab_Dog.jpeg"
   },
   {
     "name": "Aliva Priva Jardin",
     "price": "47,043",
     "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./Pics/RedFlower.jpeg"
+    "image": "./pics/RedFlower.jpeg"
   },
   {
     "name": "Asatti Garden City",
     "price": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./Pics/Waterfall.jpeg"
+    "image": "./pics/Waterfall.jpeg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./Pics/Hummingbird.jpeg"
+    "image": "./pics/Hummingbird.jpeg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./Pics/Kailasa_parvata.jpeg"
+    "image": "./pics/Kailasa_parvata.jpeg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./Pics/GermanShepard.jpeg"
+    "image": "./pics/GermanShepard.jpeg"
   },
   {
     "name": "Citralan Puri Serang",
     "price": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./Pics/Himalayas.jpeg"
+    "image": "./pics/Himalayas.jpeg"
   }
 
 ]

@@ -9,7 +9,7 @@ const GetStarted = () => {
                     <h1 style={{ color: 'white' }}>Get started with Piscean Canvas</h1>
                     <span className='secondaryText'>Subscribe and find super attractive price quotes from us. <br /> Find your residence soon</span>
                     <button className='button' >
-                        <a href="mailto:anjanbhat.com"> MAil Now</a>
+                        <a href="mailto:anjanbhat.com"> Mail Now</a>
                     </button>
                 </div>
             </div>
