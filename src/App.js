@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import Header from "./components/Header/Header";
+
 function App() {
   return (
     <div className="App">
@@ -17,9 +19,31 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+        <div className="white-gradient" />
+        <Header />
+      </div>
       </header>
     </div>
   );
 }
 
+function App() {
+  return (
+    <div className="App">
+      <div>
+        <div className="white-gradient" />
+        <Header />
+        <Hero />
+      </div>
+      <Companies />
+      <Residencies />
+      <Contact/>
+      <GetStarted/>
+      <Footer/>
+    </div>
+  );
+}
+
+export default App;
 export default App;
