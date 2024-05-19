@@ -6,10 +6,10 @@ const Conpanies = () => {
 
 <div className="paddings innerWidth flexCenter c-container">
 
-<img src="./prologis.png" alt="company" />
-<img src="./tower.png" alt="company" />
-<img src="./realty.png" alt="company" />
-<img src="./equinix.png" alt="company" />
+<img src="./pics/prologis.png" alt="company" />
+<img src="./pics/tower.png" alt="company" />
+<img src="./pics/realty.png" alt="company" />
+<img src="./pics/equinix.png" alt="company" />
 
 </div>
 
